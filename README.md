@@ -6,6 +6,10 @@ Built with Node.js/Express for the back-end and React for the front-end.
 
 Designed using MVC architecture.
 
+## Prerequisites
+1. Python installed
+2. Node installed (v 18)
+
 ## How to run
 1. Open a terminal
 2. Move into trAIder/src/server and run 'npm i' then 'npm start' to start the Nodejs/Express server.
